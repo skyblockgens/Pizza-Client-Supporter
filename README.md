@@ -1,4 +1,4 @@
-- Download: https://github.com/AstrqlDev/Pizza-Client-Supporter/releases/tag/Release
+- Download: https://github.com/skyblockgens/Pizza-Client-Supporter/releases/tag/Release
 
 NEW NOTABLE (SUPPORTER) FEATURES: Auto SS Floor 7/M7, better macros, better failsafes, better blood mob triggerbot, and more!
 
